@@ -32,7 +32,11 @@ NRP: 06111840000066
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+![TUGAS 4](https://user-images.githubusercontent.com/55585415/67065729-9692bc80-f199-11e9-87c6-03d252ad1a0d.png)
+![TUGAS 4_2](https://user-images.githubusercontent.com/55585415/67065730-985c8000-f199-11e9-8e54-f572ff424036.png)
+![TUGAS 4_3](https://user-images.githubusercontent.com/55585415/67065731-985c8000-f199-11e9-892d-f72dc06d4254.png)
+![TUGAS 4_4](https://user-images.githubusercontent.com/55585415/67065732-985c8000-f199-11e9-9cb6-470117a646f8.png)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
