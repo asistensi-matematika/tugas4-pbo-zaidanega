@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Muhammad Zaidan Egaralinsyah Setiawan
 
-NRP: `isi nrp disini`
+NRP: 06111840000066
 
 ## Deskripsi Tugas
 
